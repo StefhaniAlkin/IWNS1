@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Exercício 02 - Tabela</title>
+</head>
+
+<body>
+    <p>Lista de classes do RPG e suas características</p>
+    <table border="1">
+        <tr>
+            <th>Tipo</th>
+            <th>Classe</th>
+            <th>Magias Principais</th>
+            <th>Nível</th>
+        </tr>
+
+        <tr>
+            <td rowspan="11">Combatente</td>
+            <td rowspan="4">Bárbaro</td>
+            <td>Fúria</td>
+            <td>1</td>                  
+        </tr>
+
+        <tr>
+            <td>Ataque Descuidado</td>
+            <td>2</td>
+        </tr>
+
+        <tr>
+            <td>Ataque Extra</td>
+            <td>5</td>
+        </tr>
+
+        <tr>
+            <td>Força Indomável</td>
+            <td>18</td>
+        </tr>
+
+        <tr>
+            <td rowspan="6">Guerreiro</td>
+            <td>Estilo de Luta</td>
+            <td rowspan="3" colspan="3">1</td>
+        </tr>
+
+        <tr>
+            <td>Retomar Fôlego</td>
+        </tr>
+
+        <tr>
+            <td>Surto de Ação</td>
+        </tr>
+
+        <tr>
+            <td>Ataque Extra</td>
+            <td>5</td>
+        </tr>
+        
+        <tr>
+            <td>Indomável</td>
+            <td>9</td>
+        </tr>
+
+        <tr>
+            <td>Combatente Supremo</td>
+            <td>20</td>
+        </tr>
+
+        <tr>
+            <td>Monge</td>
+            <td>Chi</td>
+            <td>1</td>
+        </tr>
+
+        <tr>
+            <td rowspan="7">Conjurador</td>
+            <td>Bardo</td>
+            <td>Inspiração do Bardo</td>
+            <td>1</td>
+        </tr>
+
+        <tr>
+            <td>Mago</td>
+            <td>Bola de Fogo</td>
+            <td rowspan="2" colspan="2">3</td>
+        </tr>
+
+        <tr>
+            <td>Feiticeiro</td>
+            <td>Contramágica</td>
+        </tr>
+
+        <tr>
+            <td>Bruxo</td>
+            <td>Invocações Místicas</td>
+            <td>2</td>
+        </tr>
+
+        <tr>
+            <td>Clérigo</td>
+            <td>Cura Completa</td>
+            <td>6</td>
+        </tr>
+
+        <tr>
+            <td>Paladino</td>
+            <td>Aura de Proteção</td>
+            <td>6</td>
+        </tr>
+
+        <tr>
+            <td>Druida</td>
+            <td>Alterar Forma</td>
+            <td>9</td>
+        </tr>
+
+        <tr>
+            <td colspan="4">RPG é para se divertir. Todas as classes são legais!</td>
+        </tr>
+
+    </table>
+
+
+<!--
+    Nome: Stefhani Aparecida Alkin Padilha ; RA: SC3020789
+-->
+</body>
+</html>
