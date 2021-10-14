@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <title>Classes no RPG</title>
+</head>
+
+<body>
+    <main>
+        <section>
+            <header>
+                <h2>Guia de classes e raças</h2>
+                <img src="https://nuckturp.com.br/wp-content/uploads/2021/02/david-kegg-nuckturp-briga-de-bar-rpg-de-mesa-como-comecar-a-jogar-rpg-1024x401.jpg" alt="Classes do RPG">
+            </header>
+                <header>
+                    <h3>Esclarecimento de classes</h3>
+                </header>
+                <div>
+                    <p>A classe é a definição principal de o quê um personagem pode fazer. É mais do que uma profissão: é a vocação de um personagem. Elas costumam ser escolhidas de acordo com a raça optada por cada personagem.</p>
+                    <p>Existem várias raças e cada uma delas possuem suas sinergias com as classes. Na tabela abaixo, podemos ver quais raças são mais recomendadas para cada classe.</p>
+
+                    <table border = "1">
+                        <caption><b>Tabela de raças e classe recomendadas</b></caption>
+                        <thead>
+                            <tr>
+                                <th>Raça</th>
+                                <th colspan="3">Classe</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td rowspan="2">Anões</td>
+                                <td>Bárbaro</td>
+                                <td>Druída</td>
+                                <td rowspan="5">Guerreiro</td>             
+                            </tr>
+                            <tr>
+                                <td>Clérigo</td>
+                                <td>Paladino</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2">Elfos</td>
+                                <td>Ladino</td>
+                                <td rowspan="2">Qualquer classe conjuradora</td>
+                            </tr>
+                            <tr>
+                                <td>Ranger</td>
+                            </tr>
+                            <tr>
+                                <td>Meio-orc</td>
+                                <td colspan="2">Bárbaro</td>
+                            </tr>
+                            <tr>
+                                <td>Meio-elfo</td>
+                                <td colspan="2">Feitiçeiro</td>
+                                <td rowspan="4">Bardo</td>
+                            </tr>
+                            <tr>
+                                <td>Gnomos</td>
+                                <td colspan="2">Mago</td>
+                            </tr>
+                            <tr>
+                                <td>Halflings</td>
+                                <td>Ladino</td>
+                                <td>Ranger</td>
+                            </tr>
+                            <tr>
+                                <td>Tieflings</td>
+                                <td>Bruxo</td>
+                                <td>Feitiçeiro</td>
+                            </tr>
+                            <tr>
+                                <td>Draconatos</td>
+                                <td colspan="2">Guerreiro</td>
+                                <td>Paladino</td>
+                            </tr>
+                            <tr>
+                                <td>Tabaxi</td>
+                                <td colspan="2">Ranger</td>
+                                <td>Ladino</td>
+                            </tr>
+                            <tr>
+                                <td>Humano</td>
+                                <td colspan="3">Qualquer classe</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                
+                    <h4>Raças mais escolhidas pelos aventureiros</h4>
+                    <ul>
+                        <li>Humano</li>
+                        <li>Anão</li>
+                        <li>Tiefling</li>
+                        <li>Meio-elfo</li>
+                        <li>Meio-orc</li>
+                    </ul>
+                </div>
+
+                <header>
+                    <h3>Multiclasses</h3>
+                    <img src="https://www.protocoloxp.com.br/wp-content/uploads/2019/09/capa.jpeg" alt="Multiclasses">
+                </header>
+                <div>
+                    <p>As classes podem ser combinadas entre si para criar personagens mais poderosos ou que cubram mais de uma função em uma aventura. É recomendado que as combinações de classe escolhidas acompanhem sempre os mesmos atributos para que seu personagem não fique desbalanceado, mas é apenas uma sugestão. </p>
+                    <p>Abaixo podemos ver quais são as opções de multiclasse que mais funcionam no RPG. Lembre-se que a diversão vem em primeiro lugar, então toda combinação é válida mesmo que a sinergia não seja tão boa.</p>
+
+                    <h4>Opções de Multiclasses</h4>
+                    <ol type="I">
+                        <li>Feitiçeiro + Bruxo</li>
+                        <li>Feitiçeiro + Paladino</li>
+                        <li>Paladino + Bardo</li>
+                        <li>Clérigo e Druida</li>
+                        <li>Clérigo + Mago</li>
+                    </ol>
+                </div>
+        </section>
+    </main>
+</body>
