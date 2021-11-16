@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <title>index.html</title>
+</head>
+
+<body>
+    <main>
+        <section>
+            <header>
+                <div>
+                    <h2>Itens e mais itens</h2>
+                    <img src="https://www.rederpg.com.br/wp/wp-content/uploads/2018/04/DMG_MagicItems-864x467.jpg" alt="Itens do RPG">
+                </div>
+  
+                <div>
+                    <h3>Importância dos itens</h3>
+                </div>
+                
+                <div>
+                    <p>Para que um personagem comece bem sua aventura, é importante ter em sua posse alguns itens para ajudar. Mas nada vem de graça, cada item tem o seu preço, alguns são mais caros e outros mais baratos.</p>
+                    <p>Tem também a opção de você derrotar algum inimigo e tomar seus itens. Na tabela abaixo, podemos ver alguns itens e seu preço em peças de ouro.</p>
+                </div>
+            
+                <div>
+                    <table border="1">
+                        <caption><b>Tabela de itens mágicos e preços</b></caption>
+                        <tr>
+                            <th>Item</th>
+                            <th>Preço</th>
+                        </tr>
+                        <tr>
+                            <td>Amuleto da Saúde</td>
+                            <td>8000</td>
+                        </tr>
+                        <tr>
+                            <td>Arma +1</td>
+                            <td>1000</td>
+                        </tr>
+                        <tr>
+                            <td>Armadura de Adamante</td>
+                            <td>500</td>
+                        </tr>
+                        <tr>
+                            <td>Armadura de Mitral</td>
+                            <td>800</td>
+                        </tr>
+                        <tr>
+                            <td>Bastão da Prontidão</td>
+                            <td>25000</td>
+                        </tr>
+                        <tr>
+                            <td>Cajado de Cura</td>
+                            <td>25000</td>
+                        </tr>
+                        <tr>
+                            <td>Escudo Animado</td>
+                            <td>6000</td>
+                        </tr>
+                        <tr>
+                            <td>Espada Decepadora</td>
+                            <td>1700</td>
+                        </tr>
+                        <tr>
+                            <td>Espada Vorpal</td>
+                            <td>24000</td>
+                        </tr>
+                        <tr>
+                            <td>Varinha de Bolas de Fogo</td>
+                            <td>32000</td>
+                        </tr>
+                    </table>
+                </div>
+            </header>
+        </section>
+                
+        <section>
+            <header>
+                <div>
+                    <h4>Os itens mais adquiridos pelos aventureiros</h4>
+                    <ul>
+                        <li>Poção de Cura</li>
+                        <li>Anel da Proteção</li>
+                        <li>Arma +1</li>
+                        <li>Armadura +1</li>
+                        <li>Pergaminhos Mágicos</li>
+                    </ul>
+                </div>
+            </header>
+        </section>
+
+        <section>
+            <header>
+                <div>
+                    <h3>Itens iniciais</h3>
+                    <img src="https://i.pinimg.com/564x/58/7e/03/587e0381989ccc5ef56383d20c86fd12.jpg" alt="Itens iniciais">
+                </div>
+                
+                <div>
+                    <p>Para não começar de mãos vazias, o Mestre costuma dar alguns itens para os personagens começarem suas aventuras. Esses itens podem ser vendidos futuramente para juntar dinheiro e adquirir itens melhores.</p>
+                    <p>Os aventureiros podem escolher também começar com o dinheiro equivalente aos itens ao invés dos itens em si, pois o dinheiro muitas vezes é a melhor das armas.</p>
+                </div>
+
+                <div>
+                    <h4>Opções de itens iniciais</h4>
+                    <ol type="a">
+                        <li>Arma simples corpo a corpo</li>
+                        <li>Armadura leve</li>
+                        <li>Rações</li>
+                        <li>Saco de dormir</li>
+                        <li>Cantil de água</li>
+                        <li>Mochila</li>
+                    </ol>
+                </div>
+            </header>
+        </section>
+    </main>
+</body>
