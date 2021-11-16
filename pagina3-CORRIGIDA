@@ -42,50 +42,63 @@
                 <div>
                     <table border="1">
                         <caption><b>Tabela de itens mágicos e preços</b></caption>
-                        <tr>
-                            <th>Item</th>
-                            <th>Preço</th>
-                        </tr>
-                        <tr>
-                            <td>Amuleto da Saúde</td>
-                            <td>8000</td>
-                        </tr>
-                        <tr>
-                            <td>Arma +1</td>
-                            <td>1000</td>
-                        </tr>
-                        <tr>
-                            <td>Armadura de Adamante</td>
-                            <td>500</td>
-                        </tr>
-                        <tr>
-                            <td>Armadura de Mitral</td>
-                            <td>800</td>
-                        </tr>
-                        <tr>
-                            <td>Bastão da Prontidão</td>
-                            <td>25000</td>
-                        </tr>
-                        <tr>
-                            <td>Cajado de Cura</td>
-                            <td>25000</td>
-                        </tr>
-                        <tr>
-                            <td>Escudo Animado</td>
-                            <td>6000</td>
-                        </tr>
-                        <tr>
-                            <td>Espada Decepadora</td>
-                            <td>1700</td>
-                        </tr>
-                        <tr>
-                            <td>Espada Vorpal</td>
-                            <td>24000</td>
-                        </tr>
-                        <tr>
-                            <td>Varinha de Bolas de Fogo</td>
-                            <td>32000</td>
-                        </tr>
+                            <thead>
+                                <tr>
+                                    <th>Item</th>
+                                    <th>Preço</th>
+                                </tr>
+                            </thead>
+                            
+                            <tbody>
+                                <tr>
+                                    <td>Amuleto da Saúde</td>
+                                    <td>8000</td>
+                                </tr>
+                                <tr>
+                                    <td>Arma +1</td>
+                                    <td>1000</td>
+                                </tr>
+                                <tr>
+                                    <td>Armadura de Adamante</td>
+                                    <td>500</td>
+                                </tr>
+                                <tr>
+                                    <td>Armadura de Mitral</td>
+                                    <td>800</td>
+                                </tr>
+                                <tr>
+                                    <td>Bastão da Prontidão</td>
+                                    <td>25000</td>
+                                </tr>
+                                <tr>
+                                    <td>Cajado de Cura</td>
+                                    <td>25000</td>
+                                </tr>
+                                <tr>
+                                    <td>Escudo Animado</td>
+                                    <td>6000</td>
+                                </tr>
+                                <tr>
+                                    <td>Espada Decepadora</td>
+                                    <td>1700</td>
+                                </tr>
+                                <tr>
+                                    <td>Espada Vorpal</td>
+                                    <td>24000</td>
+                                </tr>
+                                <tr>
+                                    <td>Varinha de Bolas de Fogo</td>
+                                    <td>32000</td>
+                                </tr>
+                            </tbody>
+                            
+                            <tfoot>
+                                <tr>
+                                    <td colspan="2">
+                                        <i>Valores atualizados para 2021</i> <!--Aqui precisa centralizar no CSS-->
+                                    </td>
+                                </tr>
+                            </tfoot>
                     </table>
                 </div>
             </article>
