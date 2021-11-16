@@ -7,23 +7,38 @@
 </head>
 
 <body>
+    <header>
+        <h1 id='topo'>Torre Sem Fim</h1>
+        <p>Um blog com informações sobre RPG!</p> 
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#desc" title="Clique para ir até a descrição de RPG">Descrição de RPG</a></li>
+            <li><a href="Pagina2.HTML" target="_blank" title="Clique para abrir a página sobre Classes">Classe no RPG</a></li>
+            <li><a href="index.html" target="_blank" title="Clique para abrir a página inicial">Torre sem Fim</a></li>
+        </ul>
+    </nav>
+
     <main>
-        <section>
+
+        <!--Primeira parte - Introducao dos itens e tabela-->
+
+        <section title="Introducao sobre itens do RPG">
             <header>
                 <div>
                     <h2>Itens e mais itens</h2>
-                    <img src="https://www.rederpg.com.br/wp/wp-content/uploads/2018/04/DMG_MagicItems-864x467.jpg" alt="Itens do RPG">
                 </div>
-  
-                <div>
-                    <h3>Importância dos itens</h3>
-                </div>
+            </header>
+
+            <article>
+                <h3 id="impitens">Importancia dos Itens</h3>
+
+                <img src="https://www.rederpg.com.br/wp/wp-content/uploads/2018/04/DMG_MagicItems-864x467.jpg" height="300" width="360" alt="Figura representando os itens do RPG">
                 
-                <div>
-                    <p>Para que um personagem comece bem sua aventura, é importante ter em sua posse alguns itens para ajudar. Mas nada vem de graça, cada item tem o seu preço, alguns são mais caros e outros mais baratos.</p>
-                    <p>Tem também a opção de você derrotar algum inimigo e tomar seus itens. Na tabela abaixo, podemos ver alguns itens e seu preço em peças de ouro.</p>
-                </div>
-            
+                <p>Para que um personagem comece bem sua aventura, é importante ter em sua posse alguns itens para ajudar. Mas nada vem de graça, cada item tem o seu preço, alguns são mais caros e outros mais baratos.</p>
+                <p>Tem também a opção de você derrotar algum inimigo e tomar seus itens. Na tabela abaixo, podemos ver alguns itens e seu preço em peças de ouro.</p>
+
                 <div>
                     <table border="1">
                         <caption><b>Tabela de itens mágicos e preços</b></caption>
@@ -73,31 +88,35 @@
                         </tr>
                     </table>
                 </div>
-            </header>
-        </section>
-                
-        <section>
-            <header>
-                <div>
-                    <h4>Os itens mais adquiridos pelos aventureiros</h4>
-                    <ul>
-                        <li>Poção de Cura</li>
-                        <li>Anel da Proteção</li>
-                        <li>Arma +1</li>
-                        <li>Armadura +1</li>
-                        <li>Pergaminhos Mágicos</li>
-                    </ul>
-                </div>
-            </header>
+            </article>
         </section>
 
-        <section>
+        <!--Segunda parte - Itens adquiridos e lista-->        
+        <section title="Itens mais adquiridos pelos aventureiros">
             <header>
                 <div>
-                    <h3>Itens iniciais</h3>
+                    <h4 id="mostaquired">Os itens mais adquiridos pelos aventureiros</h4>
+                </div>
+            </header>
+                <ul>
+                    <li>Poção de Cura</li>
+                    <li>Anel da Proteção</li>
+                    <li>Arma +1</li>
+                    <li>Armadura +1</li>
+                    <li>Pergaminhos Mágicos</li>
+                </ul>
+        </section>
+
+        <!--Terceira parte - Itens iniciais e lista-->
+        <section title="Itens iniciais">
+            <header>
+                <div>
+                    <h3 id="inicialitens">Itens iniciais</h3>
                     <img src="https://i.pinimg.com/564x/58/7e/03/587e0381989ccc5ef56383d20c86fd12.jpg" alt="Itens iniciais">
                 </div>
-                
+            </header>
+
+            <article>                
                 <div>
                     <p>Para não começar de mãos vazias, o Mestre costuma dar alguns itens para os personagens começarem suas aventuras. Esses itens podem ser vendidos futuramente para juntar dinheiro e adquirir itens melhores.</p>
                     <p>Os aventureiros podem escolher também começar com o dinheiro equivalente aos itens ao invés dos itens em si, pois o dinheiro muitas vezes é a melhor das armas.</p>
@@ -114,7 +133,7 @@
                         <li>Mochila</li>
                     </ol>
                 </div>
-            </header>
+            </article>
         </section>
     </main>
 </body>
