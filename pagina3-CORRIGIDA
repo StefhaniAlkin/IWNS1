@@ -123,10 +123,8 @@
         <!--Terceira parte - Itens iniciais e lista-->
         <section title="Itens iniciais">
             <header>
-                <div>
-                    <h3 id="inicialitens">Itens iniciais</h3>
-                    <img src="https://i.pinimg.com/564x/58/7e/03/587e0381989ccc5ef56383d20c86fd12.jpg" alt="Itens iniciais">
-                </div>
+                <h3 id="inicialitens">Itens iniciais</h3>
+                <img src="https://i.pinimg.com/564x/58/7e/03/587e0381989ccc5ef56383d20c86fd12.jpg" height="345" width="282" alt="Itens iniciais">
             </header>
 
             <article>                
